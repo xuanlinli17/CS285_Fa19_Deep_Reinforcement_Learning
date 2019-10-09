@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\lenovo\\Desktop\\Berkeley\\cs285\\homework_fall2019\\cs285\\scripts\\../data\\bc_test_bc_humanoid_Humanoid-v2_16-09-2019_01-01-05/policy_itr_0"
+all_model_checkpoint_paths: "C:\\Users\\lenovo\\Desktop\\Berkeley\\cs285\\homework_fall2019\\cs285\\scripts\\../data\\bc_test_bc_humanoid_Humanoid-v2_16-09-2019_01-01-05/policy_itr_0"
