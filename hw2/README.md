@@ -18,7 +18,7 @@ python run_hw2_policy_gradient.py --env_name CartPole-v0 -n 100 -b 5000 -rtg--ex
 
 To plot the two figures, run:
 ```
-python plot_3.py
+python cs285/plot_3.py
 ```
 
 ## Question 4
@@ -29,7 +29,7 @@ python run_hw2_policy_gradient.py --env_name  InvertedPendulum-v2 --ep_len 1000 
 
 To plot, run:
 ```
-python plot_4.py
+python cs285/plot_4.py
 ```
 
 ## Question 6
@@ -40,7 +40,7 @@ python run_hw2_policy_gradient.py --env_name LunarLanderContinuous-v2 --ep_len 1
 
 To plot, run:
 ```
-python plot_6.py
+python cs285/plot_6.py
 ```
 
 ## Question 7
@@ -59,7 +59,7 @@ python run_hw2_policy_gradient.py --env_name HalfCheetah-v2 --ep_len 150 --disco
 
 To plot the two figures, run:
 ```
-python plot_7.py
+python cs285/plot_7.py
 ```
 
 ## Bonus
@@ -72,5 +72,5 @@ python plot_7.py
 
 To plot, run:
 ```
-python plot_bonus.py
+python cs285/plot_bonus.py
 ```
