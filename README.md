@@ -8,4 +8,4 @@ Each folder contains original hw pdf, code, experiment data, and plotter file.
 
 See the `instructions.txt` of each folder for specific setup instructions and `README.md` of each folder for experiment instructions
 
-### HW1 - HW4 have been uploaded.
+### HW1 - HW5 have been uploaded.

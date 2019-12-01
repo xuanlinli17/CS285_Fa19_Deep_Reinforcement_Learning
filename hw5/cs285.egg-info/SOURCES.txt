@@ -1,0 +1,14 @@
+setup.py
+cs285/density_model.py
+cs285/ex_utils.py
+cs285/exploration.py
+cs285/logz.py
+cs285/plot.py
+cs285/pointmass.py
+cs285/replay.py
+cs285/sparse_half_cheetah.py
+cs285/train_ac_exploration_f18.py
+cs285.egg-info/PKG-INFO
+cs285.egg-info/SOURCES.txt
+cs285.egg-info/dependency_links.txt
+cs285.egg-info/top_level.txt
